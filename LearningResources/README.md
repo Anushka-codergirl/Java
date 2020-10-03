@@ -1,3 +1,3 @@
-## Learning Resources
+# Learning Resources
 
-# JAVA
+## JAVA
