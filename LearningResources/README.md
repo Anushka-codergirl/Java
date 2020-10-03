@@ -8,7 +8,6 @@
 * Codewars (free) - https://www.codewars.com/
 * Edx - https://www.edx.org/
 * JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
->>>>>>> master
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
