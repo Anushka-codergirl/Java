@@ -8,6 +8,8 @@
 * Codewars (free) - https://www.codewars.com/
 * Edx - https://www.edx.org/
 * JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
+* Programiz (free) - https://www.programiz.com/java-programming
+* Java2Blog (free) - https://java2blog.com/core-java-tutorial-for-beginners-experienced/
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
