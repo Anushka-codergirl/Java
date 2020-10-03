@@ -1,14 +1,14 @@
 # Resources for Learning JAVA
 
-# web resouces:
-BinarySearch - free
-CodeCademy - paid
-Udemy - paid
-CodeGym.cc - free
-Codewars - free
-edx.org - free
-JetBrains Academy - paid, free trial
+## Web resouces:
+BinarySearch (free) - https://binarysearch.com/
+CodeCademy (paid) - https://www.codecademy.com/
+Udemy (paid) - https://www.udemy.com/
+CodeGym (free) - https://codegym.cc/
+Codewars (free) - https://www.codewars.com/
+Edx - https://www.edx.org/
+JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
 
-# apps:
-SoloLearn - free
-Mimo - free
+## Mobile Apps:
+SoloLearn - https://www.sololearn.com/
+Mimo - https://getmimo.com/
