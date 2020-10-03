@@ -12,3 +12,6 @@
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
+
+## Books:
+* Headfirst Java - https://www.wickedlysmart.com/head-first-java/
