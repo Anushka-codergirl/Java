@@ -1,3 +1,3 @@
-# Learning Resources for JAVA
+# Resources for Learning JAVA
 
 
