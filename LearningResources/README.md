@@ -15,3 +15,7 @@
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
 * Grasshopper - https://grasshopper.app/
+
+## Project Based Learning :
+* Build a Simple HTTP Server with Java (http://javarevisited.blogspot.com/2015/06/)
+* How to Build a Sudoku Game Java Desktop Application (https://www.youtube.com/watch?v=qH9mWpYMtYU)
