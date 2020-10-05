@@ -8,12 +8,18 @@
 * Codewars (free) - https://www.codewars.com/
 * Edx - https://www.edx.org/
 * JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
+
 * Java Basics Tutorial: https://www.javatpoint.com/java-tutorial
+
+
+* Code Academy(free) - https://www.codecademy.com/learn/learn-java
+* Skill Share(free) - https://www.skillshare.com/classes/Java-Basics-For-Complete-Beginners/330257664?via=browse-rating-java-layout-grid
 
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
+
 
 
 ## Other Couses:
@@ -22,3 +28,5 @@
 
 
 *GeeksforGeeks is just one search away ✌️
+
+* Grasshopper - https://grasshopper.app/
