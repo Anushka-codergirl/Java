@@ -10,6 +10,8 @@
 * JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
 * Code Academy(free) - https://www.codecademy.com/learn/learn-java
 * Skill Share(free) - https://www.skillshare.com/classes/Java-Basics-For-Complete-Beginners/330257664?via=browse-rating-java-layout-grid
+* Baeldung(free) - https://www.baeldung.com/get-started-with-java-series
+* Dzone(free) - https://dzone.com/java-jdk-development-tutorials-tools-news
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
