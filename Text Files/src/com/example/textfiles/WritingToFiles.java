@@ -14,6 +14,9 @@ public class WritingToFiles
         outputFile.println("This is line 1");
         outputFile.println("This is line 2");
         outputFile.println("This is line 3");
+        outputFile.println("This is line 4");
+        outputFile.println("This is line 5");
+        
 
         outputFile.close();
     }
