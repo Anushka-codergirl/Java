@@ -18,11 +18,7 @@
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
-
-
-
-
-*GeeksforGeeks is just one search away :v:
+* GeeksforGeeks - https://www.geeksforgeeks.org/
 
 * Grasshopper - https://grasshopper.app/
 
