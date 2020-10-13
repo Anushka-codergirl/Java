@@ -1,6 +1,8 @@
 # Resources for Learning JAVA
 
 ## Web resouces:
+* Pluralsight (paid) - https://www.pluralsight.com/
+* Baeldung (paid and free material) - https://www.baeldung.com/
 * BinarySearch (free) - https://binarysearch.com/
 * CodeCademy (paid) - https://www.codecademy.com/
 * Udemy (paid) - https://www.udemy.com/
