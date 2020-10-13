@@ -20,6 +20,12 @@
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
+
+* Grasshopper - https://grasshopper.app/
+
+
+
+=======
 * GeeksforGeeks - https://www.geeksforgeeks.org/
 * Android Developer Guide - https://developer.android.com/guide
 * Grasshopper - https://grasshopper.app/
@@ -27,3 +33,7 @@
 ## Project Based Learning :
 * Build a Simple HTTP Server with Java (https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd)
 * How to Build a Sudoku Game Java Desktop Application (https://www.youtube.com/watch?v=qH9mWpYMtYU)
+
+
+## Books:
+* Headfirst Java - https://www.wickedlysmart.com/head-first-java/
