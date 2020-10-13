@@ -20,12 +20,7 @@
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
 * Mimo - https://getmimo.com/
-
 * Grasshopper - https://grasshopper.app/
-
-
-
-=======
 * GeeksforGeeks - https://www.geeksforgeeks.org/
 * Android Developer Guide - https://developer.android.com/guide
 * Grasshopper - https://grasshopper.app/
