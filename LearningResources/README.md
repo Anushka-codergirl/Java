@@ -9,7 +9,6 @@
 * Edx - https://www.edx.org/
 * JetBrains Academy (paid, free trial) - https://www.jetbrains.com/academy/
 * Code Academy(free) - https://www.codecademy.com/learn/learn-java
-* Skill Share(free) - https://www.skillshare.com/classes/Java-Basics-For-Complete-Beginners/330257664?via=browse-rating-java-layout-grid
 * Programiz (free) - https://www.programiz.com/java-programming
 * Java2Blog (free) - https://java2blog.com/core-java-tutorial-for-beginners-experienced/
 * Pluralsight (paid, free trial) - https://www.pluralsight.com/browse/software-development/java
@@ -20,11 +19,6 @@
 * Skill Share(free) - https://www.skillshare.com/classes/Java-Basics-For-Complete-Beginners/330257664?via=browse-rating-java-layout-grid
 * Baeldung(free) - https://www.baeldung.com/get-started-with-java-series
 * Dzone(free) - https://dzone.com/java-jdk-development-tutorials-tools-news
-
-
-* Object Oriented Programming in Java - https://www.coursera.org/learn/object-oriented-java/home/welcome
-* Java Basics Tutorial - https://www.javatpoint.com/java-tutorial
-* Java Placement Course - https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
