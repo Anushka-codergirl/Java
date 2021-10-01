@@ -37,3 +37,18 @@
 
 ## Books:
 * Headfirst Java - https://www.wickedlysmart.com/head-first-java/
+
+## Youtube Channels
+* [Java](https://www.youtube.com/c/javaplatform)
+* [JetBrainsTV](https://www.youtube.com/user/JetBrainsTV)
+* [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
+* [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev)
+* [Simplicode](https://www.youtube.com/watch?v=HpLZJaQBBmM&list=PLGevxjyhYfA5fuHI3upUQBMsJXur5xtQ5)
+* [Thorben Janssen](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/videos)
+* [Java.IL](https://www.youtube.com/channel/UC733JWbIvjSGJZzM0G8_ExA/videos)
+* [Java By Kiran](https://www.youtube.com/channel/UCZoq1kylnMYP_c5WG9FV9XA/videos)
+* [GOTOConferences](https://www.youtube.com/user/GotoConferences)
+* [InfoQ](https://www.youtube.com/user/MarakanaTechTV)
+* [vJUG](https://www.youtube.com/user/virtualJUG)
+* [Adam Bien](https://www.youtube.com/user/bienadam)
+
