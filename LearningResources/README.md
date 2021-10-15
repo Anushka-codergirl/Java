@@ -44,6 +44,7 @@
 * [Devoxx](https://www.youtube.com/channel/UCCBVCTuk6uJrN3iFV_3vurg)
 * [SpringDeveloper](https://www.youtube.com/user/SpringSourceDev)
 * [Simplicode](https://www.youtube.com/watch?v=HpLZJaQBBmM&list=PLGevxjyhYfA5fuHI3upUQBMsJXur5xtQ5)
+* [Spring Framework Guru](https://www.youtube.com/c/SpringframeworkGuru)
 * [Thorben Janssen](https://www.youtube.com/channel/UCYeDPubBiFCZXIOgGYoyADw/videos)
 * [Java.IL](https://www.youtube.com/channel/UC733JWbIvjSGJZzM0G8_ExA/videos)
 * [Java By Kiran](https://www.youtube.com/channel/UCZoq1kylnMYP_c5WG9FV9XA/videos)
