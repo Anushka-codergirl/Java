@@ -9,7 +9,7 @@ import java.net.URL;
  *
  * @author Anushka
  */
-public class JavaApi {
+public class App {
 
     /**
      * @param args the command line arguments
