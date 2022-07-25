@@ -1,3 +1,4 @@
 # Java
 
-[Learning Resources](/LearningResources)
+* [Programs](/Programs)
+* [Learning Resources](/LearningResources)
