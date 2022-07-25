@@ -1,4 +1,4 @@
-# Resources for Learning JAVA
+# JAVA Resources Compilation
 
 ## Web resouces:
 * Pluralsight (paid) - https://www.pluralsight.com/
@@ -21,6 +21,7 @@
 * Skill Share(free) - https://www.skillshare.com/classes/Java-Basics-For-Complete-Beginners/330257664?via=browse-rating-java-layout-grid
 * Baeldung(free) - https://www.baeldung.com/get-started-with-java-series
 * Dzone(free) - https://dzone.com/java-jdk-development-tutorials-tools-news
+* W3Schools - https://www.w3schools.com/java/
 
 ## Mobile Apps:
 * SoloLearn - https://www.sololearn.com/
