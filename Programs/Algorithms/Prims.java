@@ -38,7 +38,7 @@ public class Main {
 
 			for (int i = 0; i < numberOfEdges; i++) {
 				
-				if (visited[i])
+				if (visited[i]){
 					for (int j = 0; j < numberOfEdges; j++) {
 
 						if (!visited[j]) {
@@ -48,6 +48,7 @@ public class Main {
 							}
 						}
 					}
+				}
 			}
 			
 			visited[v] = true;
