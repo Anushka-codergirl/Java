@@ -22,6 +22,7 @@
 * [Baeldung (free)](https://www.baeldung.com/get-started-with-java-series)
 * [Dzone (free)](https://dzone.com/java-jdk-development-tutorials-tools-news)
 * [W3Schools](https://www.w3schools.com/java/)
+* [Tutorialspoint](https://www.tutorialspoint.com/java/index.htm)
 
 ## 📱 **Mobile Apps**
 * [SoloLearn](https://www.sololearn.com/)
@@ -38,6 +39,7 @@
 
 ## 📚 **Books**
 * [Headfirst Java](https://www.wickedlysmart.com/head-first-java/)
+* [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
 
 ## 📺 **Youtube Channels**
 * [Java](https://www.youtube.com/c/javaplatform)
