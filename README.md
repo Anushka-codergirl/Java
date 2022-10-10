@@ -17,3 +17,17 @@ libraries for building fault-tolerant, distributed, multi-tier software.
 devices. It also has libraries specific to mobile devices.
 - **Java Card** - used in smart cards. 
 
+## How Java Code Gets Executed
+
+The Java compiler takes Java code and compiles it down to Java Bytecode which is
+a cross-platform format. When we run Java applications, Java Virtual Machine
+(JVM) gets loaded in the memory. It takes our bytecode as the input and translates
+it to the native code for the underlying operating system. There are various
+implementations of Java Virtual Machine for almost all operating systems. 
+
+## Architecture of Java Applications
+
+The smallest building blocks in Java programs are methods (also called functions
+in other programming languages). We combine related methods in classes, and
+related classes in packages. This modularity in Java allows us to break down large
+programs into smaller building blocks that are easier to understand and re-use. 
