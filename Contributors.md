@@ -2,8 +2,6 @@
 
 ![contributors](https://contrib.rocks/image?repo=Anushka-codergirl/Java)
 
-**Anushka Raj** 
-[LinkedIn](https://www.linkedin.com/in/anushka-raj/)
+[**Anushka Raj**](https://www.linkedin.com/in/anushka-raj/)
 
-**Manav Bahl**
-[LinkedIn](https://www.linkedin.com/in/manavbahl/)
+[**Manav Bahl**](https://www.linkedin.com/in/manavbahl/)
