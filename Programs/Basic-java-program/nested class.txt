@@ -1,0 +1,73 @@
+import java.util.ArayList;
+
+public class University{
+
+String uname;
+
+ ArrayList <Students>  Studentlist = new ArrayList <Students> ( );
+ ArrayList <Departments> deptlist = new ArrayList <Departments> ( );
+
+University(String univ, String[ ] snames, String[] dnames){
+
+uname=univ;
+// to find out number of names which are pass  in this object
+
+for(int i=0, i<sname.length; i++)
+Studentlist.add(new Students(snames[ i ]));
+deptlist.add (new Departments (dnames[ i ] ));
+} // end of constructer 
+
+class Students{
+
+String sname;
+
+Department dept;
+
+Students(String sname){
+
+this.sname=sname;}
+
+void display( ){
+
+System.out.print("Name is : " + sname);
+System.out.print("Department is : " + dname);
+}
+} // student class is closed 
+
+class Departments{
+
+String dname;
+ ArrayList <Students> deptstudents = new ArrayList <Students> ( );
+
+Departments(String dname){
+this.dname = dname;}
+
+void displayStudents(){
+for(int i=0; i<deptstudents.size(); i++)
+System.out.print(deptstudents.get(i).sname);
+
+Department getDepartment (String name ){
+
+for(int i=0; i<deptlist.size(); i++)
+{
+if (deplist.get(i).dname.equals name)
+return deptlist.get( i);
+
+else
+return null;}
+}
+
+Students  getStudents ( String s){
+for(int i=0; i<Studentlist.size(); i++)
+{
+if (Studentlist.get(i).sname.equals s)
+return Studentlist.get( i);
+
+else
+return null;}
+}
+
+
+
+
+
