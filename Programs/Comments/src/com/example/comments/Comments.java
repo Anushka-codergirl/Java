@@ -7,6 +7,7 @@ public class Comments
      *This is the main method of  the class
      * @param args This is just a variable
      */
+    
     public static void main(String[] args)
     {
 
