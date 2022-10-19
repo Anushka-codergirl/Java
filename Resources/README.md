@@ -40,6 +40,7 @@
 ## 📚 **Books**
 * [Headfirst Java](https://www.wickedlysmart.com/head-first-java/)
 * [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
+* [Clean Code](https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388)
 
 ## 📺 **Youtube Channels**
 * [Java](https://www.youtube.com/c/javaplatform)
