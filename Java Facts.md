@@ -9,3 +9,5 @@ renamed to Java inspired by Java coffee.
 every Blu-Ray player.
 5. According to indeed.com, the average salary of a Java developer is just over
 $100,000 per year in the US.
+6. James and his team were working on setup box by modifying C++ and ended up with new programming language JAVA.
+7. It only supports OPPS concept.
