@@ -5,6 +5,9 @@
 * [Programs](/Programs)
 * [Resources](/Resources)
 
+
+## [Interesting Facts about Java](/Facts.md)
+
 ## Java Editions
 We have four editions of Java, each used for building a different type of
 application:
