@@ -1,4 +1,4 @@
- class Car{
+public class Homework{
 String carType;
 String color;
 

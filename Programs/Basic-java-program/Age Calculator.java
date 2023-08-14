@@ -1,10 +1,3 @@
-//-------- AI Programming ----------
-//   Gregorian Age Calculator
-// Join our Underground Coding Movement
-//@freecodecs (c) Oct, 2019.
-
-
-package runstudent;
 import java.util.Scanner;
 
 class Date{
