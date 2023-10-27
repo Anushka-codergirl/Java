@@ -1,6 +1,6 @@
 # JAVA Resources Compilation
 
-## 💻 **Web resouces**
+## 💻 **Web resources**
 * [Pluralsight (paid)](https://www.pluralsight.com/)
 * [Baeldung (paid or free)](https://www.baeldung.com/)
 * [BinarySearch (free)](https://binarysearch.com/)
@@ -33,14 +33,19 @@
 * [Grasshopper](https://grasshopper.app/)
 
 ## 👩🏻‍💻 **Project Based Learning**
-* [Build a Simple(hTTP Server with Java](https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd)
+* [Build a Simple(HTTP Server with Java](https://medium.com/@ssaurel/create-a-simple-http-web-server-in-java-3fc12b29d5fd)
 * [How to Build a Sudoku Game Java Desktop Application](https://www.youtube.com/watch?v=qH9mWpYMtYU)
 
+## **Docs**
+* [Oracle's Java Docs](https://docs.oracle.com/en/java/)
 
 ## 📚 **Books**
 * [Headfirst Java](https://www.wickedlysmart.com/head-first-java/)
 * [Java in a Nutshell](https://www.oreilly.com/library/view/java-in-a/9781492037248/)
 * [Clean Code](https://www.amazon.in/Clean-Code-Robert-C-Martin/dp/8131773388)
+* [Java Design Patterns](https://www.oreilly.com/library/view/head-first-design/0596007124/)
+* [Introduction to Programming in Java by Robert Sedgewick and Kevin Wayne](https://introcs.cs.princeton.edu/java/home/)
+* [Think Java: How to Think Like a Computer Scientist](https://greenteapress.com/wp/think-java/)
 
 ## 📺 **Youtube Channels**
 * [Java](https://www.youtube.com/c/javaplatform)
