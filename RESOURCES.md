@@ -1,10 +1,10 @@
 # JAVA Resources Compilation
 
 ## 💻 **Web resources**
-* [Pluralsight (paid)](https://www.pluralsight.com/)
+* [Pluralsight (paid or free)](https://www.pluralsight.com/)
 * [Baeldung (paid or free)](https://www.baeldung.com/)
 * [BinarySearch (free)](https://binarysearch.com/)
-* [CodeCademy (paid)](https://www.codecademy.com/)
+* [Codecademy (paid)](https://www.codecademy.com/)
 * [Udemy (paid or free)](https://www.udemy.com/)
 * [CodeGym (free)](https://codegym.cc/)
 * [Codewars (free)](https://www.codewars.com/)
